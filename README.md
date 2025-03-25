@@ -1,5 +1,5 @@
 # Cisco STP & RSTP Advanced Switching Lab
-<img src="https://i.imgur.com/8jkpsOY.png" height="80%" alt="[name of screenshot]" />
+<img src="https://i.imgur.com/HNzguPb.png" height="80%" alt="[name of screenshot]" />
 ## Overview
 This CCNA/CCNP-level lab explores **Spanning Tree Protocol (STP)** and **Rapid Spanning Tree Protocol (RSTP)** in a multi-switch environment. It provides hands-on experience with **PVST+**, **Rapid PVST**, **Root Bridge elections**, and advanced loop prevention mechanisms like **PortFast, Root Guard, BPDU Guard, BPDU Filter, and Loop Guard**.
 
